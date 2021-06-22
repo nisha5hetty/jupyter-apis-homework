@@ -1,5 +1,5 @@
 # jupyter-apis-homework
- Learning how to use a Jupyter notebook
+ Learning how to use a Jupyter notebook and GitHub
 
 ## **What the assignment was about:**
 The assignment was about working with APIs and navigating through dictionaries of dictionaries of lists of dictionaries (or something like that). And learning how to name variables uniquely!
